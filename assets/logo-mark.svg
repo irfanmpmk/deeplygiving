@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="400 250 850 850" fill="none" stroke="#17838F" stroke-width="84">
+  <mask id="cut" maskUnits="userSpaceOnUse" x="400" y="250" width="850" height="850">
+    <rect x="400" y="250" width="850" height="850" fill="#fff" stroke="none"/>
+    <rect x="400" y="618" width="160" height="106" fill="#000" stroke="none"/>
+    <rect x="636" y="820" width="86" height="280" fill="#000" stroke="none"/>
+  </mask>
+  <g mask="url(#cut)">
+    <path d="M765 336 A342 342 0 0 0 484 670"/>
+    <path d="M484 670 A342 342 0 0 0 690 990"/>
+    <path d="M765 336 V1018" stroke-linecap="round"/>
+    <path d="M853 332 A342 342 0 0 1 887 1009"/>
+    <path d="M887 1009 V708" stroke-linecap="round"/>
+  </g>
+</svg>
